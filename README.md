@@ -18,6 +18,8 @@ The result of the analysis for June and December are as followed, but the result
 
 __Here are some references used for future reading and understanding of these terms for these short reference points. 
 
-_https://en.wikipedia.org/wiki/Quartile
-_https://people.richland.edu/james/lecture/m170/ch03-def.html
-_https://en.wikipedia.org/wiki/Statistics
+https://en.wikipedia.org/wiki/Quartile
+
+https://people.richland.edu/james/lecture/m170/ch03-def.html
+
+https://en.wikipedia.org/wiki/Statistics
