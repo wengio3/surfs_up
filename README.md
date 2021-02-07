@@ -1,7 +1,7 @@
 # surfs_up
 # Overview 
 
-This analysis is for an upcoming business based in Oahu, Hawaii, looking to open a surf n' shake shop providing services related to surfing and serving ice cream at the same time. The idea came about when an upcoming businessman Wyan was in Hawaii and discovered he has a passion for surfing. Wyan has teamed up with a well-known investor W. Avy who has first-hand experience in a surf shop business. W. Avy's first surf shop was unsuccessful because he forgot to account for the weather. This time he has incorporated weather analysis to ensure he does not make the same mistake. W. Avy was able to get a weather dataset for Oahu, Hawaii. Using this dataset focused on temperature data for June and December in Oahu, it is plausible that a surf and ice cream shop business is sustainable year-round.
+This analysis is for an upcoming business based in Oahu, Hawaii, looking to open a Surf n' Shake shop providing services related to surfing and serving ice cream at the same time. The idea came about when an upcoming businessman Wyan was in Hawaii and discovered he has a passion for surfing. Wyan has teamed up with a well-known investor W. Avy who has first-hand experience in a surf shop business. W. Avy's first surf shop was unsuccessful because he forgot to account for the weather. This time he has incorporated weather analysis to ensure he does not make the same mistake. W. Avy was able to get a weather dataset for Oahu, Hawaii. Using this dataset focused on temperature data for June and December in Oahu, it is plausible that a surf and ice cream shop business is sustainable year-round.
 
 # Results 
 
@@ -26,3 +26,7 @@ _https://en.wikipedia.org/wiki/Statistics_
 
 __Result Table of Analysis for June and December respectively__
 ![IMG_0768](https://user-images.githubusercontent.com/74740339/107158689-d3b82a80-6959-11eb-8e61-2fb8be8a7dbd.JPG)
+
+# Summary
+
+Although there is a significant difference in the minimum temperature in June and December 64 and 56 respectively, from the rest of the analysis, we can see there isn't that much temperature difference between June and December. The maximum temperature for these months are 85 and 83, and a median of 75 and 71. With this in mind, we can conclude that the weather will not be an issue for the Surf n' Shake shop. 
