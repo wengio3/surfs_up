@@ -5,7 +5,7 @@ This analysis is for an upcoming business based in Oahu, Hawaii, looking to open
 
 # Results 
 
-The result of the analysis for June and December are as followed, but the results are summarized and using statistics terms. Here's a refresher on key concepts in statistics shown in the analysis. 
+The result of the analysis for June and December are as followed, but the results are summarized using statistics terms. Here's a refresher on key concepts in statistics shown in the analysis. 
 
  * Count: count is simply the count of how many items or "observations" you have.
  * means: mean (average) of a data set is found by adding all numbers in the data set and then dividing by the number of values in the set. The median is the middle value when a data set is ordered from least to greatest.
@@ -16,4 +16,8 @@ The result of the analysis for June and December are as followed, but the result
  * 75%: The third quartile (Q3) is the middle value between the median and the highest value (maximum) of the data set. It is known as the upper or 75th empirical quartile, as 75% of the data lies below this point. 
  * Max: Maximum: the largest number in a dataset.
 
-Here are some references used for future reading and understanding of these terms for these short reference points. 
+__Here are some references used for future reading and understanding of these terms for these short reference points. 
+
+_https://en.wikipedia.org/wiki/Quartile
+_https://people.richland.edu/james/lecture/m170/ch03-def.html
+_https://en.wikipedia.org/wiki/Statistics
