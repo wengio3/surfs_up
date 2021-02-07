@@ -16,7 +16,7 @@ The result of the analysis for June and December are as followed, but the result
  * 75%: The third quartile (Q3) is the middle value between the median and the highest value (maximum) of the data set. It is known as the upper or 75th empirical quartile, as 75% of the data lies below this point. 
  * Max: Maximum: the largest number in a dataset.
 
-__Here are some references used for future reading and understanding of these terms for these short reference points. 
+__Here are some references used for future reading and understanding of these terms for these short reference points.__ 
 
 https://en.wikipedia.org/wiki/Quartile
 
