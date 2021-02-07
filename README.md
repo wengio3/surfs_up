@@ -24,4 +24,5 @@ _https://people.richland.edu/james/lecture/m170/ch03-def.html_
 
 _https://en.wikipedia.org/wiki/Statistics_
 
+__Result Table of Analysis for June and December respectively__
 ![IMG_0768](https://user-images.githubusercontent.com/74740339/107158689-d3b82a80-6959-11eb-8e61-2fb8be8a7dbd.JPG)
